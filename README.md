@@ -9,9 +9,8 @@ Your document must include images. To insert an image into your documentation, p
 
 ```
 ![Molecule Diagram](DocImages/2150Molecule.JPG)
-![Molecule Diagram](DocImages/2150Section1.JPG)
-![Molecule Diagram](DocImages/2150Section2.JPG)
-![Molecule Diagram](DocImages/2150Section3.JPG)
+
+
 ```
 
 
@@ -19,6 +18,10 @@ Your document must include images. To insert an image into your documentation, p
 ![This is the alt text for an image!](DocImages/2150Section1.JPG)
 ![This is the alt text for an image!](DocImages/2150Section2.JPG)
 ![This is the alt text for an image!](DocImages/2150Section3.JPG)
+
+![Section 1 Level Map](DocImages/2150Section1.JPG)
+![Section 2 Level Map](DocImages/2150Section2.JPG)
+![Section 3 Level Map](DocImages/2150Section3.JPG)
 
 ## 1. Player Experience (~700 words)
 TESTTEST
