@@ -1,13 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
 ### Name: [Kyle Rampal]
 ### Student number: [47145986] 
-
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-
 
 
 ## 1. Player Experience
@@ -90,3 +83,9 @@ Iterative design was integral to the success of my level. Using playtesting, sto
 
 ![Storyboarding for Section One](DocImages/storyboardingsection1.png)
 ![Storyboarding for Section Two](DocImages/storyboardingsection2.png)
+
+## 5. Bibliography
+Csikszentmihalyi, M. (2014). Play and Intrinsic Rewards. In: Flow and the Foundations of Positive Psychology. Springer, Dordrecht. https://doi-org.simsrad.net.ocs.mq.edu.au/10.1007/978-94-017-9088-8_10
+
+Edmond, C. (2024) Challenge & Drama. COMP2150 Game Design
+
