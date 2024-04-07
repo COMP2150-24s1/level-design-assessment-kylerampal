@@ -9,9 +9,11 @@ Your document must include images. To insert an image into your documentation, p
 
 ```
 ![Molecule Diagram](DocImages/2150Molecule.JPG)
+![Molecule Diagram](DocImages/2150Section1.JPG)
+![Molecule Diagram](DocImages/2150Section2.JPG)
+![Molecule Diagram](DocImages/2150Section3.JPG)
 ```
 
-Example:
 
 ![This is the alt text for an image!](DocImages/2150Molecule.JPG)
 
