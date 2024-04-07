@@ -8,15 +8,15 @@ This document discusses and reflects on the design of your platformer level for 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
 ```
-![Molecule Diagram](DocImages/2150Molecule.jpg)
+![Molecule Diagram](DocImages/2150Molecule.JPG)
 ```
 
 Example:
 
-![This is the alt text for an image!](DocImages/2150Molecule.jpg)
+![This is the alt text for an image!](DocImages/2150Molecule.JPG)
 
 ## 1. Player Experience (~700 words)
-
+TESTTEST
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
