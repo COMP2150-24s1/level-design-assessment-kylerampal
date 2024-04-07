@@ -8,7 +8,7 @@ This document discusses and reflects on the design of your platformer level for 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
 ```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
+![Molecule Diagram](DocImages/2150Molecule.jpg)
 ```
 
 Example:
